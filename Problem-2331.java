@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+
 class Solution {
     public boolean evaluateTree(TreeNode root) {
         if(root.left== null && root.right==null){
